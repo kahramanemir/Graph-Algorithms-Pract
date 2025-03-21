@@ -43,8 +43,5 @@ The project runs automatically and executes the following functions:
 - Emir Kahraman
 - Bülent Yıldırım
 
-## 📩 Contact
-If you find any issues or have suggestions for improvement, please contact us via [GitHub](https://github.com/mrdweeby/graph-algorithms).
-
 📜 **License**: Licensed under the MIT License.
 
